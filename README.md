@@ -22,14 +22,6 @@ A premium, high-performance scientific calculator for Chrome, inspired by the cl
 - **Enter**: Calculate (=)
 - **Arrow Keys**: Move cursor for editing
 
-## Installation
-
-1. Download or clone this repository.
-2. Run `npm install` and `npm run build`.
-3. Open `chrome://extensions/` in Chrome.
-4. Enable "Developer mode".
-5. Click "Load unpacked" and select the `dist` folder.
-
 ## Technology Stack
 
 - React + Vite
